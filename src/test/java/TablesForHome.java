@@ -13,7 +13,7 @@ public class TablesForHome {
     }
 
     @Test
-    public void testForTableTR() {
+    public void testForTableRows() {
         //how menu rows in table with data
         //print row 2
         ////print row 7
